@@ -1,0 +1,10 @@
+岗位描述
+1、负责 JVMTI Agent 的实现
+2、负责实现公司产品对国产化架构的支持
+岗位要求
+1、熟练掌握C/C++编程语言，熟悉gcc构建环境，熟悉使用STL；
+2、熟悉Windows/Linux平台的gcc构建，熟练使用Linux常用的调试、问题分析定位工具、有交叉编译经验
+3、熟悉AArch32/AArch64架构gcc构建
+4、熟悉JVM，JVMTI，JNI等机制
+
+                        
